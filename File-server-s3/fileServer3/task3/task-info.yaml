@@ -1,0 +1,8 @@
+type: edu
+files:
+- name: src/server/Main.java
+  visible: true
+- name: src/client/Main.java
+  visible: true
+- name: test/FileServerTest.java
+  visible: true
