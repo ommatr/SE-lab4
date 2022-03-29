@@ -1,0 +1,7 @@
+type: hyperskill
+title: File-server-s4
+language: English
+summary: File server emulator - Stage 4 - Send anything
+programming_language: Java
+content:
+- fileServer4
